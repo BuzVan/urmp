@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">urmp</string>
+    <string name="problemQuestion">У вас появились вопросы?</string>
+    <string name="helpLink">Тех. Поддержка</string>
+    <string name="loading">Загружается клиент...</string>
+    <string name="setupClient">Установить клиент</string>
+    <string name="url_apk">https://trashbox.ru/files20/1166128_8a9ced/com.yandex.browser.lite_19.6.0.158_190600158.apk</string>
 </resources>
